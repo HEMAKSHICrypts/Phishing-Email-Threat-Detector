@@ -1,0 +1,9 @@
+text,label
+"Click here to verify your account urgently",phishing
+"Your bank account has been locked, login now",phishing
+"Congratulations! You won a prize, click link",phishing
+"Urgent: reset your password now",phishing
+"Meeting scheduled at 10am tomorrow",safe
+"Project update attached",safe
+"Let's catch up later",safe
+"Team lunch tomorrow",safe

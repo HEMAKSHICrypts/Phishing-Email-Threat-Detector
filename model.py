@@ -25,4 +25,3 @@ def predict_email(email_text):
     prediction = model.predict(email_vector)[0]
     probability = model.predict_proba(email_vector).max()
     return prediction, round(probability * 100, 2)
-s
